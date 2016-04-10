@@ -13,6 +13,8 @@ The image URL is entered via a GET request query parameter: http://mybluemix.net
 
 [Node-RED flow](http://flows.nodered.org/flow/7bc0b97f3de6c1bc9a57f7426fdee2c8) | [Gist](https://gist.github.com/kostasx/7bc0b97f3de6c1bc9a57f7426fdee2c8)
 
+![Alt text](/image-analysis/img/flow.jpg)
+
 **Samples:**
 
 ![Alt text](/image-analysis/img/node-red-image-analysis-hollywood.png)
